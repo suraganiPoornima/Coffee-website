@@ -1,0 +1,23 @@
+
+.text-center{
+    margin-top: 70px;
+}
+.images img{
+    width: 500px;
+    height: 300px;
+}
+.footer{
+    display: flex;
+    /* justify-content: space-between; */
+    height: 300px;
+    margin: 0 150px;
+    
+}
+.footer ul li{
+    list-style: none;
+
+}
+.footer ul li a{
+    color: white;
+    text-decoration: none;
+}
